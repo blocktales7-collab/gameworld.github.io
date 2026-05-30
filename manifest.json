@@ -1,0 +1,16 @@
+{
+    "name": "Игры",
+    "short_name": "Игры",
+    "description": "Лучшие игры только здесь!",
+    "display": "standalone",
+    "background_color": "#21201E",
+    "theme_color": "#21201E",
+    "orientation": "landscape",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "96x106",
+            "type": "image/png"
+        }
+    ]
+}
